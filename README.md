@@ -1,4 +1,4 @@
-### Olá! Eu sou Yan Tavares!
+### Hi! I am Yan Tavares!
 <div align="center">
   <a href="https://github.com/yantvrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yantvrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
