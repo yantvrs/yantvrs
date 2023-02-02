@@ -12,9 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yan_tvrs&theme=merko&hide_border=false)<br/>
 
 
-<a href="https://github.com/yan_tvrs">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan_tvrs&layout=compact&langs_count=7&theme=merko"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yan_tvrs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/yantvrs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantvrs&layout=compact&langs_count=7&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yantvrs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 
 
 ### ✍️ Random Dev Quote
