@@ -13,8 +13,9 @@
 
 
 <a href="https://github.com/yantvrs">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantvrs&layout=compact&langs_count=7&theme=merko"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yantvrs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantvrs&layout=compact&langs_count=7&theme=merko"/>
+<br/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=yantvrs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 
 
 ### ✍️ Random Dev Quote
