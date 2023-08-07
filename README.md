@@ -1,5 +1,5 @@
 # Hi, I'm Yan Tavares 👨‍💻
-</br>
+
 ## 💫 About Me:
 🎓 I am a Bachelor of Science and Technology with a focus on Computing<br>📚 Student of Computer Engineering
 
