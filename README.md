@@ -11,7 +11,7 @@
 ![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![typescript](https://img.shields.io/badge/typescript-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+![Typescript](https://img.shields.io/badge/TypeScript-ED225D?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF)
 
 # 📊 GitHub Stats:
 
